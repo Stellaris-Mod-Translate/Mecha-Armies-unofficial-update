@@ -85,7 +85,7 @@ custodes_army_desc: ""
 # Blood Angels
 
 blood_angels_army: "블러드 엔젤"
-blood_angels_army_plural: "Blood Angels"
+blood_angels_army_plural: "블러드 엔젤"
 blood_angels_army_desc: ""
 
 # Dark Angels
@@ -102,86 +102,86 @@ imperial_fist_army_desc: ""
 
 # Imperial Fist Garrison
 
-imperial_fist_def_army: ""
-imperial_fist_def_army_plural: ""
+imperial_fist_def_army: "임페리얼 피스트 수비대"
+imperial_fist_def_army_plural: "임페리얼 피스트 수비대"
 imperial_fist_def_army_desc: ""
 
 # Iron Hands
 
-iron_hands_army: ""
-iron_hands_army_plural: ""
+iron_hands_army: "아이언 핸드"
+iron_hands_army_plural: "아이언 핸드"
 iron_hands_army_desc: ""
 
 # Raven Guard
 
-raven_guard_army: ""
-raven_guard_army_plural: ""
+raven_guard_army: "레이븐 가드"
+raven_guard_army_plural: "레이븐 가드"
 raven_guard_army_desc: ""
 
 # Salamanders
 
-salamanders_army: ""
-salamanders_army_plural: ""
+salamanders_army: "샐러맨더"
+salamanders_army_plural: "샐러맨더"
 salamanders_army_desc: ""
 
 # Space Wolves
 
-space_wolves_army: ""
-space_wolves_army_plural: ""
+space_wolves_army: "스페이스 울프"
+space_wolves_army_plural: "스페이스 울프"
 space_wolves_army_desc: ""
 
 # Ultramarines
 
-Ultramarines_army: ""
-Ultramarines_army_plural: ""
+Ultramarines_army: "울트라 마린"
+Ultramarines_army_plural: "울트라 마린"
 Ultramarines_army_desc: ""
 
 # White Scars
 
-white_scars_army: ""
-white_scars_army_plural: ""
+white_scars_army: "화이트 스카"
+white_scars_army_plural: "화이트 스카"
 white_scars_army_desc: ""
 
 # Mechwarriors
 
-mechwarrior_army: ""
-mechwarrior_army_plural: ""
+mechwarrior_army: "맥워리어"
+mechwarrior_army_plural: "맥워리어"
 mechwarrior_army_desc: ""
 
 # Merc Mechwarriors
 
-mechwarrior_merc_army: ""
-mechwarrior_merc_army_plural: ""
+mechwarrior_merc_army: "용병 맥워리어"
+mechwarrior_merc_army_plural: "용병 맥워리어"
 mechwarrior_merc_army_desc: ""
 
 # Vertibird
 
 vertibird_army: ""
-vertibird_army_plural: ""
+vertibird_army_plural: "버티버드 비행 부대"
 vertibird_army_desc: ""
 
 # Inquisitors
 
-inquisitor_army: ""
-inquisitor_army_plural: ""
+inquisitor_army: "이단심문관 단체"
+inquisitor_army_plural: "이단심문관 단체들"
 inquisitor_army_desc: ""
 
 # necron
 
-nec_army: ""
-nec_army_plural: ""
+nec_army: "네크론"
+nec_army_plural: "네크론"
 nec_army_desc: ""
 
 # Mech Titans
 
-titanic_mech_army: ""
-titanic_mech_army_plural: ""
+titanic_mech_army: "타이탄 군단"
+titanic_mech_army_plural: "타이탄 군단"
 titanic_mech_army_desc: ""
 
 # Psi Titans
 
-titanic_psic_army: ""
-titanic_psic_army_plural: ""
+titanic_psic_army: "싸이 타이탄"
+titanic_psic_army_plural: "싸이 타이탄"
 titanic_psic_army_desc: ""
 
 # Bio Titans
