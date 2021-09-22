@@ -1,0 +1,305 @@
+﻿l_english:
+    ### Mecha Armies Mod
+    
+    # The Doom Slayer
+    doom_army:0 "The Doom Slayer"
+    doom_army_plural:0 "The Doom Slayer"
+    doom_army_desc:0 "In the first age, in the first battle, when the shadows first lengthened, one stood. Burned by the embers of Armageddon, his soul blistered by the fires of Hell and tainted beyond ascension, he chose the path of perpetual torment. In his ravenous hatred he found no peace, with boiling blood he scoured the Umbral Plains seeking vengeance against the dark lords who had wronged him and those that tasted the bite of his sword named him... the Doom Slayer."
+    
+    # robocop
+    cop_army:0 "Robocop"
+    cop_army_plural:0 "Robocop"
+    cop_army_desc:0 "the mega-corporation Omni Consumer Products, has provided us with a experimental cyborg design designated RoboCop, ostensibly programmed with three directives: serve the public trust, protect the innocent, and uphold the law but has been repurposed into a one man army to suit our military needs."
+    
+    # spartan
+    spartan_army:0 "Spartan 117"
+    spartan_army_plural:0 "Spartan 117"
+    spartan_army_desc:0 "Spartan 117, Master Chief Petty Officer john is the only succesfull member of are stage II Gene Warrior."
+    
+    # buns
+    bun_army:0 "Spess Bunnies"
+    bun_army_plural:0 "Spess Bunnies"
+    bun_army_desc:0 "an adorable horde of fluffy bunnies...     why are we making these again?"
+    
+    # Mech Mercs Army
+    mechmercs_army:0 "Merc Army"
+    mechmercs_army_plural:0 "Merc Armies"
+    mechmercs_army_desc:0 "Do you see an enemy troop carrier coming and don't have time to train your own armies? Hire Mercs for quick and dirty jobs! They deploy immediately, but demand a lot of payment. Might be best to decommission them after the job."
+    
+    # Helghast
+    helghast_army:0 "Helghast"
+    helghast_army-plural:0 "Helghan"
+    helghast_army_desc:0 "My Duty To The Emperor, My Life For Helghan."
+    
+    # Colonial Marine Corps
+    colonialmarines_army:0 "Colonial Marines"
+    colonialmarines_army_plural:0 "Colonial Marines"
+    colonialmarines_army_desc:0 "These people are here to protect you. They're soldiers. Marines of the Fleet."
+    
+    # Mobile Infantry
+    mobileinfantry_army:0 "Mobile Infantry"
+    mobileinfantry_army_plural:0 "Mobile Infantry"
+    mobileinfantry_army_desc:0 "Naked force has resolved more conflicts throughout history than any other factor. Troopers outfitted with powered armor suits."
+    
+    # XCOM Squad
+    xcom_army:0 "XCOM Squad"
+    xcom_army_plural:0 "XCOM Squads"
+    xcom_army_desc:0 "XCOM's soldiers operate in small combat units and specialize in hit and run tactics, allowing devastating strikes with minimum collateral damage."
+    
+    # Armoured Divisions
+    tanks_army:0 "Armoured Divisions"
+    tanks_army_plural:0 "Armoured Divisions"
+    tanks_army_desc:0 "Main Battle Tanks supported by moblie infantry allowing for fast and deadly breakthroughs."
+    
+    # Space Marines
+    spacemarines_army:0 "Legions Of The Damned"
+    spacemarines_army_plural:0 "Legions Of The Damned"
+    spacemarines_army_desc:0 "Cleanse, Purge, Kill! The Legion of the Damned is a mysterious band of Supersoldiers which appears unbidden when all hope seems lost, striding forth from its hidden netherworld to bring retribution to our foes. Once their bloody work is complete the Legionaries vanish into myth once more."
+
+    
+    # Sisters of Battle
+    sisters_of_battle_army:0 "Sisters of Battle"
+    sisters_of_battle_army_plural:0 "Sisters of Battle"
+    sisters_of_battle_army_desc:0 "Bunch together a group of people deliberately chosen for strong religious feelings, and you have a practical guarantee of dark morbidities expressed in crime, perversion, and insanity."
+    
+    # Custodes
+    custodes_army:0 "Custodes"
+    custodes_army_plural:0 "Custodes"
+    custodes_army_desc:0 "Each one of the Ten Thousand represents genetic lore acquired over many lifetimes. Each one of you is unique, a work of art never to be repeated. I am miserly with your lives, where I would spend so many others without a thought."
+    
+    
+    # Blood Angels
+    blood_angels_army:0 "Blood Angels"
+    blood_angels_army_plural:0 "Blood Angels"
+    blood_angels_army_desc:0 "For the Emperor and Sanguinius!"
+    
+    # Dark Angels
+    dark_angels_army:0 "Dark Angles"
+    dark_angels_army_plural:0 "Dark Angles"
+    dark_angels_army_desc:0 "Repent! For tomorrow you die!"
+    
+    # Imperial Fist
+    imperial_fist_army:0 "Imperial Fists"
+    imperial_fist_army_plural:0 "Imperial Fists"
+    imperial_fist_army_desc:0 "Primarch-Progenitor, to your glory and the glory of earth!"
+    
+    # Imperial Fist Garrison
+    imperial_fist_def_army:0 "Imperial Fists Garrison"
+    imperial_fist_def_army_plural:0 "Imperial Fists Garrison"
+    imperial_fist_def_army_desc:0 "Primarch-Progenitor, to your glory and the glory of earth!"
+    
+    # Iron Hands
+    iron_hands_army:0 "Iron Hands"
+    iron_hands_army_plural:0 "Iron Hands"
+    iron_hands_army_desc:0 "The Flesh Is Weak!"
+    
+    # Raven Guard
+    raven_guard_army:0 "Raven Guard"
+    raven_guard_army_plural:0 "Raven Guard"
+    raven_guard_army_desc:0 "Victorus aut Mortis!"
+    
+    # Salamanders
+    salamanders_army:0 "Salamanders"
+    salamanders_army_plural:0 "Salamanders"
+    salamanders_army_desc:0 "Into the fires of battle, unto the anvil of war!"
+    
+    # Space Wolves
+    space_wolves_army:0 "Space Wolves"
+    space_wolves_army_plural:0 "Space Wolves"
+    space_wolves_army_desc:0 "For Russ and the All father!"
+    
+    # Ultramarines
+    Ultramarines_army:0 "Ultramarines"
+    Ultramarines_army_plural:0 "Ultramarines"
+    Ultramarines_army_desc:0 "Courage and Honour, We March for Macragge!"
+    
+    # White Scars
+    white_scars_army:0 "White Scars"
+    white_scars_army_plural:0 "White Scars"
+    white_scars_army_desc:0 "For the Khan and the Emperor!"
+    
+    # Mechwarriors
+    mechwarrior_army:0 "Mechwarriors"
+    mechwarrior_army_plural:0 "Mechwarriors"
+    mechwarrior_army_desc:0 "Titans of war. Army purely made of the biggest mechs that can be built."
+    
+    # Merc Mechwarriors
+    mechwarrior_merc_army:0 "Merc Mechwarriors"
+    mechwarrior_merc_army_plural:0 "Merc Mechwarriors"
+    mechwarrior_merc_army_desc:0 "A mercenary company whom specialize in Mechwarriors."
+    
+    # Vertibird
+    vertibird_army:0 "Vertibird Squadrons"
+    vertibird_army_plural:0 "Vertibird Squadrons"
+    vertibird_army_desc:0 "The Vertibird is a VTOL aircraft with an extremely durable armored fuselage and can be armed with a variety of offensive weapons and defensive countermeasures. This is the most advanced aircraft of its kind ever developed."
+    
+    # Inquisitors
+    inquisitor_army:0 "Inquisitorial Ordo"
+    inquisitor_army_plural:0 "Inquisitorial Ordos"
+    inquisitor_army_desc:0 "Inquisitors banded together, commanding the strongest units of the Empire."
+    
+    # necron
+    nec_army:0 "Necrons"
+    nec_army_plural:0 "Necrons"
+    nec_army_desc:0 "Now that our consciousnesses have been transferred into robotic bodies, are military forces are free to explore raddical new tatics and means of wagging war. The Necron robotic shell lets our soldiers transferre their consciousnesses betwen units upon destruction allowing for a constant flow of soldiers."
+    
+    # Mech Titans
+    titanic_mech_army:0 "Titan Legion"
+    titanic_mech_army_plural:0 "Titan Legions"
+    titanic_mech_army_desc:0 "No Weapon in the history of the galaxy equals the Titan on the battlefield, and a Legion of such vast war machines can bring any world to its knees. In truth, a Titan has only three enemies: folly, hubris, and another of its own kind."
+    
+    # Psi Titans
+    titanic_psic_army:0 "Psi Titans"
+    titanic_psic_army_plural:0 "Psi Titans"
+    titanic_psic_army_desc:0 "By focusing our psychic energie we have sumond Titanic beings shrouded in mist and towering over the battlefield, may all those whom stand in their way see the true power of the devine and beg for mercy at their feet."
+    
+    # Bio Titans
+    titanic_bio_army:0 "Titanic Pets"
+    titanic_bio_army_plural:0 "Titanic Pets"
+    titanic_bio_army_desc:0 "Our extensive knowledge of biological manipulation and engineering on scales once considered impossible, have unlocked the means to grow, armour and weaponize domesticated creatures to titanic sizes. please remember to rub their bellies prior to sending them to war."
+    
+    # Judge
+    judge_army:0 "Street Judges"
+    judge_army_plural:0 "Street Judges"
+    judge_army_desc:0 "WE ARE THE LAW!"
+    
+    # XCOM Defense
+    xcom_defense:0 "XCOM Defense Grid"
+    xcom_defense_plural:0 "XCOM Defense Grid"
+    xcom_defense_desc:0 "The XCOM Defense Grid is the first and last line of defense against alien invaders and serve as the most valuable defensive combat units available to us."
+    
+    # Junkbot Armies
+    junkbot_army:0 "Junkbots"
+    junkbot_army_plural:0 "Junkbots"
+    junkbot_army_desc:0 "An army of hastily thrown together automatrons, tho they are rapidly produced their efficiency leaves a lot to be desired." 
+    
+    # Assimilated Drones 
+    assimilated_drone:0 "Assimilated Drones"
+    assimilated_drone_plural:0 "Assimilated Drones"
+    assimilated_drone_desc:0 "Assimilated cyborgs, stripped of autonomy and enhanced with weaponized limbs."
+    
+    # Cyber Armies
+    cyber_army:0 "Cyber Armies"
+    cyber_army_plural:0 "Cyber Armies"
+    cyber_army_desc:0 "Assimilated Drones now fully encased in a metalic shell with onboard repair systemes to allow for extensive periods of combat."
+    
+    # Rotor Drone
+    machine_assault_6:0 "Rotor Drones"
+    machine_assault_6_plural:0 "Rotor Drones"
+    machine_assault_6_desc:0 "A swarm of dual rotored drones capable of overwhelming most opponents and extremely simple to produce considering their efficiency." 
+    
+    # Terminator Armies
+    machine_assault_4:0 "Terminators"
+    machine_assault_4_plural:0 "Terminators"
+    machine_assault_4_desc:0 "Bipedal hunter-killer robots equipped with a mini autocannon and back mounted grenade launcher."
+    
+    # Spider Fromes
+    machine_assault_5:0 "Spider Fromes"
+    machine_assault_5_plural:0 "Spider Fromes"
+    machine_assault_5_desc:0 "Large mechanical arachnid like tanks that are extremely mobile and capable of climbing up walls, equipped with a large maine gun and several ripper cannons, flamethrowers and missile pods."
+    
+    # Aerial VTOL
+    machine_assault_8:0 "Aerial Squadrons"
+    machine_assault_8_plural:0 "Aerial Squadrons"
+    machine_assault_8_desc:0 "The Aerial is a large VTOL-capable aircraft. Featuring a devastating array of under-slung and wing-mounted lasers, missiles, and plasma cannons, the Aerial is fearsome and terrifying to behold."
+    
+    # World Engine
+    machine_assault_7:0 "World Engine"
+    machine_assault_7_plural:0 "World Engines"
+    machine_assault_7_desc:0 "The world engine is a titanic warform equipped with enough weapons to level entire cities."
+    
+    # Spawn Armies
+    spwan_army:0 "Spawnlings"
+    spwan_army_plural:0 "Spawnlings"
+    spwan_army_desc:0 "Small, rapidly grown and expendable. Spawnlings are perfect bioform cannon fodder."
+    
+    # Lictors
+    lictor_army:0 "Lictors"
+    lictor_army_plural:0 "Lictors"
+    lictor_army_desc:0 "The Lictor is a specialised evolutionary development. Able to move swiftly and without sound through even the densest terrain, and concealed by a chameleonic carapace that renders it all but invisible to the naked eye, a Lictor can remain hidden until it chooses to strike."
+    
+    # Rippers
+    ripper_army:0 "Rippers"
+    ripper_army_plural:0 "Rippers"
+    ripper_army_desc:0 "Rippers are a maggot-like species that fight in great swarms so they can pull down and consume creatures many times their own size. However, they are completely mindless and will perish if they lose a synaptic link with the Hive Mind, although while under our guidance they are utterly relentless and pose a truly horrifying threat."
+    
+    
+    # Trygons
+    trygon_army:0 "Trygons"
+    trygon_armyplural:0 "Trygons"
+    trygon_army_desc:0 "A Trygon leads our hordes into battle. It creates huge burrows to tunnel behind enemy lines and uses its acute senses to detect the prescence of enemies above it. It is a deadly close combat specialist making use of six clawed arms, razor sharp teeth and a bio-electric field that flows through its armour that can incapacitate attacking enemies."
+    
+    # Raveners
+    ravener_army:0 "Raveners"
+    ravener_army_plural:0 "Raveners"
+    ravener_army_desc:0 "Raveners are the next evolutionary step for lictors, now armed with acid throwers and wings."
+    
+    # The Great Devourer
+    great_devourer_army:0 "The Great Devourer"
+    great_devourer_army_plural:0 "The Great Devourers"
+    great_devourer_army_desc:0 "The Great Devourers are the final evolutionary bioform intended to counter the greatest war engines deployed by the other intelligent species of the Galaxy. Towering above the battlefields, leading the swarms of lesser biofrom creatures. These massive biomechanical war-machines stalk the warzones of the Galaxy spitting death and destruction, cutting down their foes with potent bio-weapons."
+    
+    # Mecha Building
+    building_titan_forge:0 "Titan Forge"
+    building_titan_forge_desc:0 "A vast factory devoted solely to the production of Titans. pop must have cybernetic trait to creat titan"
+    
+    building_psi_forge:0 "Psychic Forge"
+    building_psi_forge_desc:0 "A vast temple devoted solely to the sumoning of Titans."
+    
+    building_titanic_preserve:0 "Titanic Preserve"
+    building_titanic_preserve_desc:0 "A vast laboratory and preserve devoted solely to the creation and care of Titanic Pets."
+    
+    building_titan_factory:0 "Titan Factory"
+    building_titan_factory_desc:0 "A vast factory devoted solely to the production of Titanic war machines."
+    
+    building_titan_nest:0 "Titan Nest"
+    building_titan_nest_desc:0 "A giant nest for Titanic beasts."
+    
+    building_justice_department:0 "Department of Dredd"
+    building_justice_department_desc:0 "The Department of Dredd is dedicated to maintaining the rule of law, by any and all means necessary." 
+
+    # Mecha Policies
+    policy_standard_equipment_policie:0 "Specialized Equipment"
+    policy_standard_equipment_policie_desc:0 "Its important to make sure all our ground forces are using the best equipment we can give them."
+    
+    none:0 "No Specialized Equipment"
+    none_desc:0 "Investing in specialized equipment will only distract us from funding our main forces."
+    none_name:1 "None"
+    
+    helldivers:0 "Helldivers"
+    helldivers_desc:0 "Special Force unit of four highly sophisticated soldiers is deployed directly from orbit to an important target."
+    helldivers_name:1 "Helldivers"
+    
+    commissars:0 "Commissars"
+    commissars_desc:0 "Commissars are tasked with the duty to maintain the morale of the troops during their massive campaigns, often in the face of staggering casualties. The Commissar is empowered to use any means necessary to ensure the moral purity of his or her soldiers retreating only as a last resort *BLAM!* Insubordination! There is no such thing as retreating in the prescence of a commissar!"
+    commissars_name:0 "Commissars"
+    
+    hunter_killer_drones:0 "Hunter Killer Drones"
+    hunter_killer_drones_desc:0 "Massive swarms of these relatively simple unmanned aerial vehicles are unleashed on enemy positions in hope of crushing their moral."
+    hunter_killer_drones_name:0 "Hunter Killer Drones"
+    
+    purity_seal:0 "Purity Seals"
+    purity_seal_desc:0 "In such dark times it is more important than ever for our troops to keep faith, so bless upon their tools of war holy parchment to ease their worries."
+    purity_seal_name:1 "Purity Seals"
+    
+    art_def:0 "The Art of Defense"
+    art_def_desc:0 "We have no need of such agressive equipment, let us instead focus on fortifying our worlds. As this will deter any idea of rebelion."
+    art_def_name:1 "Art of Defense"
+    
+    mininukes:0 "Mini Nukes"
+    mininukes_desc:0 "Tactical Oxygen Nukes require no fission material and produce no fallout. They are small enough to be deployed by infantry."
+    mininukes_name:1 "Mini Nukes"
+    
+    jumpjets:0 "Advanced Jump Jet Pack"
+    jumpjets_desc:0 "Powered Armor Suits are equipped with Advanced Jump Jet Packs, allowing for greater jumps, more agility and dashing. Increases survivability."
+    jumpjets_name:1 "Jump Jets"
+    
+    jumpnukes:0 "Jump Packs n' Mini Nukes"
+    jumpnukes_desc:0 "Powered Armor Suits are equipped with Advanced Jump Jet Packs, allowing for greater jumps, more agility and dashing. Increases survivability. Tactical Oxygen Nukes require no fission material and produce no fallout. They are small enough to be deployed by infantry."
+    jumpnukes_name:1 "Jump Jets n' Mini Nukes"
+    
+    #XCOM
+    civic_xcom:0 "The XCOM Project"
+    civic_xcom_desc:0 "In light of the recent extraterrestrial incursion, this council of nations has convened to approve the activation of the XCOM Project. Our first and last line of defense. Good luck, Commander."
+    civic_xcom_effects:0 "Allows mobilization of XCOM units in Defense and assault and insight on psionic theory."
+    
