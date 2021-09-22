@@ -1,0 +1,340 @@
+﻿l_english:
+
+
+### Mecha Armies Mod
+
+
+# The Doom Slayer
+
+doom_army: "둠 슬레이어"
+doom_army_plural: "둠 슬레이어"
+doom_army_desc: ""
+
+# robocop
+
+cop_army: ""
+cop_army_plural: ""
+cop_army_desc: ""
+
+# spartan
+
+spartan_army: ""
+spartan_army_plural: ""
+spartan_army_desc: ""
+
+# buns
+
+bun_army: ""
+bun_army_plural: ""
+bun_army_desc: ""
+
+# Mech Mercs Army
+
+mechmercs_army: ""
+mechmercs_army_plural: ""
+mechmercs_army_desc: ""
+
+# Helghast
+
+helghast_army: ""
+plural: ""
+helghast_army_desc: ""
+
+# Colonial Marine Corps
+
+colonialmarines_army: ""
+colonialmarines_army_plural: ""
+colonialmarines_army_desc: ""
+
+# Mobile Infantry
+
+mobileinfantry_army: ""
+mobileinfantry_army_plural: ""
+mobileinfantry_army_desc: ""
+
+# XCOM Squad
+
+xcom_army: ""
+xcom_army_plural: ""
+xcom_army_desc: ""
+
+# Armoured Divisions
+
+tanks_army: ""
+tanks_army_plural: ""
+tanks_army_desc: ""
+
+# Space Marines
+
+spacemarines_army: ""
+spacemarines_army_plural: ""
+spacemarines_army_desc: ""
+
+# Sisters of Battle
+
+sisters_of_battle_army: ""
+sisters_of_battle_army_plural: ""
+sisters_of_battle_army_desc: ""
+
+# Custodes
+
+custodes_army: ""
+custodes_army_plural: ""
+custodes_army_desc: ""
+
+# Blood Angels
+
+blood_angels_army: ""
+blood_angels_army_plural: ""
+blood_angels_army_desc: ""
+
+# Dark Angels
+
+dark_angels_army: ""
+dark_angels_army_plural: ""
+dark_angels_army_desc: ""
+
+# Imperial Fist
+
+imperial_fist_army: ""
+imperial_fist_army_plural: ""
+imperial_fist_army_desc: ""
+
+# Imperial Fist Garrison
+
+imperial_fist_def_army: ""
+imperial_fist_def_army_plural: ""
+imperial_fist_def_army_desc: ""
+
+# Iron Hands
+
+iron_hands_army: ""
+iron_hands_army_plural: ""
+iron_hands_army_desc: ""
+
+# Raven Guard
+
+raven_guard_army: ""
+raven_guard_army_plural: ""
+raven_guard_army_desc: ""
+
+# Salamanders
+
+salamanders_army: ""
+salamanders_army_plural: ""
+salamanders_army_desc: ""
+
+# Space Wolves
+
+space_wolves_army: ""
+space_wolves_army_plural: ""
+space_wolves_army_desc: ""
+
+# Ultramarines
+
+Ultramarines_army: ""
+Ultramarines_army_plural: ""
+Ultramarines_army_desc: ""
+
+# White Scars
+
+white_scars_army: ""
+white_scars_army_plural: ""
+white_scars_army_desc: ""
+
+# Mechwarriors
+
+mechwarrior_army: ""
+mechwarrior_army_plural: ""
+mechwarrior_army_desc: ""
+
+# Merc Mechwarriors
+
+mechwarrior_merc_army: ""
+mechwarrior_merc_army_plural: ""
+mechwarrior_merc_army_desc: ""
+
+# Vertibird
+
+vertibird_army: ""
+vertibird_army_plural: ""
+vertibird_army_desc: ""
+
+# Inquisitors
+
+inquisitor_army: ""
+inquisitor_army_plural: ""
+inquisitor_army_desc: ""
+
+# necron
+
+nec_army: ""
+nec_army_plural: ""
+nec_army_desc: ""
+
+# Mech Titans
+
+titanic_mech_army: ""
+titanic_mech_army_plural: ""
+titanic_mech_army_desc: ""
+
+# Psi Titans
+
+titanic_psic_army: ""
+titanic_psic_army_plural: ""
+titanic_psic_army_desc: ""
+
+# Bio Titans
+
+titanic_bio_army: ""
+titanic_bio_army_plural: ""
+titanic_bio_army_desc: ""
+
+# Judge
+
+judge_army: ""
+judge_army_plural: ""
+judge_army_desc: ""
+
+# XCOM Defense
+
+xcom_defense: ""
+xcom_defense_plural: ""
+xcom_defense_desc: ""
+
+# Junkbot Armies
+
+junkbot_army: ""
+junkbot_army_plural: ""
+junkbot_army_desc: ""
+
+# Assimilated Drones 
+
+assimilated_drone: ""
+assimilated_drone_plural: ""
+assimilated_drone_desc: ""
+
+# Cyber Armies
+
+cyber_army: ""
+cyber_army_plural: ""
+cyber_army_desc: ""
+
+# Rotor Drone
+
+machine_assault_6: ""
+machine_assault_6_plural: ""
+machine_assault_6_desc: ""
+
+# Terminator Armies
+
+machine_assault_4: ""
+machine_assault_4_plural: ""
+machine_assault_4_desc: ""
+
+# Spider Fromes
+
+machine_assault_5: ""
+machine_assault_5_plural: ""
+machine_assault_5_desc: ""
+
+# Aerial VTOL
+
+machine_assault_8: ""
+machine_assault_8_plural: ""
+machine_assault_8_desc: ""
+
+# World Engine
+
+machine_assault_7: ""
+machine_assault_7_plural: ""
+machine_assault_7_desc: ""
+
+# Spawn Armies
+
+spwan_army: ""
+spwan_army_plural: ""
+spwan_army_desc: ""
+
+# Lictors
+
+lictor_army: ""
+lictor_army_plural: ""
+lictor_army_desc: ""
+
+# Rippers
+
+ripper_army: ""
+ripper_army_plural: ""
+ripper_army_desc: ""
+
+# Trygons
+
+trygon_army: ""
+trygon_armyplural: ""
+trygon_army_desc: ""
+
+# Raveners
+
+ravener_army: ""
+ravener_army_plural: ""
+ravener_army_desc: ""
+
+# The Great Devourer
+
+great_devourer_army: ""
+great_devourer_army_plural: ""
+great_devourer_army_desc: ""
+
+# Mecha Building
+
+building_titan_forge: ""
+building_titan_forge_desc: ""
+building_psi_forge: ""
+building_psi_forge_desc: ""
+building_titanic_preserve: ""
+building_titanic_preserve_desc: ""
+building_titan_factory: ""
+building_titan_factory_desc: ""
+building_titan_nest: ""
+building_titan_nest_desc: ""
+building_justice_department: ""
+building_justice_department_desc: ""
+
+# Mecha Policies
+
+policy_standard_equipment_policie: ""
+policy_standard_equipment_policie_desc: ""
+none: ""
+none_desc: ""
+none_name: ""
+helldivers: ""
+helldivers_desc: ""
+helldivers_name: ""
+commissars: ""
+commissars_desc: ""
+commissars_name: ""
+hunter_killer_drones: ""
+hunter_killer_drones_desc: ""
+hunter_killer_drones_name: ""
+purity_seal: ""
+purity_seal_desc: ""
+purity_seal_name: ""
+art_def: ""
+art_def_desc: ""
+art_def_name: ""
+mininukes: ""
+mininukes_desc: ""
+mininukes_name: ""
+jumpjets: ""
+jumpjets_desc: ""
+jumpjets_name: ""
+jumpnukes: ""
+jumpnukes_desc: ""
+jumpnukes_name: ""
+
+#XCOM
+
+civic_xcom: ""
+civic_xcom_desc: ""
+civic_xcom_effects: ""
