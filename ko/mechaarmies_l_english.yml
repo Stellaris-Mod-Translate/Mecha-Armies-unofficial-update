@@ -186,15 +186,15 @@ titanic_psic_army_desc: ""
 
 # Bio Titans
 
-titanic_bio_army: ""
-titanic_bio_army_plural: ""
+titanic_bio_army: "아주 거대한 애완동물들"
+titanic_bio_army_plural: "아주 거대한 애완동물들"
 titanic_bio_army_desc: ""
 
 # Judge
 
-judge_army: ""
-judge_army_plural: ""
-judge_army_desc: ""
+judge_army: "길거리의 심판자"
+judge_army_plural: "길거리의 심판자"
+judge_army_desc: "우리가 법이다!"
 
 # XCOM Defense
 
