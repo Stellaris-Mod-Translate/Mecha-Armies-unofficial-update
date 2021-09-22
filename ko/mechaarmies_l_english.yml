@@ -54,50 +54,50 @@ mobileinfantry_army_desc: "역사를 통틀어 강력한 무력은 다른 어떤
 
 # XCOM Squad
 
-xcom_army: ""
-xcom_army_plural: ""
-xcom_army_desc: ""
+xcom_army: "XCOM 분대"
+xcom_army_plural: "XCOM 분대들"
+xcom_army_desc: "XCOM 군인들은 소규모 단위 전투 부대로 게릴라전에 특화되어있습니다. 본인들의 피해는 최소화하고 상대에게 큰 피해를 입힙니다."
 
 # Armoured Divisions
 
-tanks_army: ""
-tanks_army_plural: ""
-tanks_army_desc: ""
+tanks_army: "기갑사단"
+tanks_army_plural: "기갑사단"
+tanks_army_desc: "빠르고 치명적인 돌파구를 찾아내는 기동 타격대의 지원을 받는 주력 전차입니다."
 
 # Space Marines
 
-spacemarines_army: ""
-spacemarines_army_plural: ""
+spacemarines_army: "저주받은 이들의 군단"
+spacemarines_army_plural: "저주받은 이들의 군단"
 spacemarines_army_desc: ""
 
 # Sisters of Battle
 
-sisters_of_battle_army: ""
-sisters_of_battle_army_plural: ""
+sisters_of_battle_army: "시스터즈 오브 배틀"
+sisters_of_battle_army_plural: "시스터즈 오브 배틀"
 sisters_of_battle_army_desc: ""
 
 # Custodes
 
-custodes_army: ""
-custodes_army_plural: ""
+custodes_army: "쿠스토데스"
+custodes_army_plural: "쿠스토데스"
 custodes_army_desc: ""
 
 # Blood Angels
 
-blood_angels_army: ""
-blood_angels_army_plural: ""
+blood_angels_army: "블러드 엔젤"
+blood_angels_army_plural: "Blood Angels"
 blood_angels_army_desc: ""
 
 # Dark Angels
 
-dark_angels_army: ""
-dark_angels_army_plural: ""
+dark_angels_army: "다크 엔젤"
+dark_angels_army_plural: "다크 엔젤"
 dark_angels_army_desc: ""
 
 # Imperial Fist
 
-imperial_fist_army: ""
-imperial_fist_army_plural: ""
+imperial_fist_army: "임페리얼 피스트"
+imperial_fist_army_plural: "임페리얼 피스트"
 imperial_fist_army_desc: ""
 
 # Imperial Fist Garrison
