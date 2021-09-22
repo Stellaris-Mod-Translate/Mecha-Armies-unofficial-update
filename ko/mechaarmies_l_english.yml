@@ -48,9 +48,9 @@ colonialmarines_army_desc: "이 사람들은 당신을 보호하기 위해 왔�
 
 # Mobile Infantry
 
-mobileinfantry_army: ""
-mobileinfantry_army_plural: ""
-mobileinfantry_army_desc: ""
+mobileinfantry_army: "기동타격대"
+mobileinfantry_army_plural: "기동타격대"
+mobileinfantry_army_desc: "역사를 통틀어 강력한 무력은 다른 어떤 요인보다 더 많은 갈등을 풀어왔습니다. 부대원들은 강력한 강화복을 갖춰 입고 있습니다."
 
 # XCOM Squad
 
