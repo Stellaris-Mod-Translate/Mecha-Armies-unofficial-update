@@ -32,19 +32,19 @@ bun_army_desc: "사랑스런 솜털 토끼 무리들...왜 이걸 다시 만들�
 
 mechmercs_army: "용병군"
 mechmercs_army_plural: "용병군들"
-mechmercs_army_desc: ""
+mechmercs_army_desc: "지금 당신의 눈앞에 적들이 물려오는데 군대를 양성할 시간이 없나요? 그럴때는 바로 용병군을 고용하세요! 빠르고 더러운 일을 처리해드립니다! 그들은 즉시 배치되지만, 많은 비용을 요구합니다. 일이 끝난 후 그들을 퇴역시키는 것이 가장 좋을지 모릅니다."
 
 # Helghast
 
-helghast_army: ""
-plural: ""
-helghast_army_desc: ""
+helghast_army: "헬가스트"
+plural: "헬간"
+helghast_army_desc: "나의 의무는 황제 폐하를 위해서, 내 목숨을 헬간에."
 
 # Colonial Marine Corps
 
-colonialmarines_army: ""
-colonialmarines_army_plural: ""
-colonialmarines_army_desc: ""
+colonialmarines_army: "식민지 군인"
+colonialmarines_army_plural: "식민지 군인"
+colonialmarines_army_desc: "이 사람들은 당신을 보호하기 위해 왔습니다. 그들은 군인입니다. 함대의 군인들."
 
 # Mobile Infantry
 
