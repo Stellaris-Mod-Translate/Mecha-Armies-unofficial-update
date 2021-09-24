@@ -170,7 +170,7 @@ inquisitor_army_desc: "이단심문관은 제국의 가장 강력한 단체를 �
 
 nec_army: "네크론"
 nec_army_plural: "네크론"
-nec_army_desc: "이제 우리의 의식이 로봇 몸으로 옮겨졌기에, 군대는 급진적이고 새로운 전술과 전쟁을 뒤흔드는 수단을 자유롭게 탐구할 수 있게됐습니다. 네크론 로봇 동체는 우리 군인들이 파괴되었을 때 그들의 의식을 부대 간에 전달해서 새로이 만듭니다. 이는 군인들의 지속적인 흐름을 가능하게 해줍니다."
+nec_army_desc: "이제 우리의 의식이 로봇 몸으로 옮겨졌기에, 군대는 급진적인 새로운 전술과 전쟁을 뒤흔드는 수단을 자유롭게 탐구할 수 있게 됐습니다. 네크론 로봇 동체는 우리 군인들이 파괴되었을 때 그들의 의식을 부대 간에 전달해서 새로이 만듭니다. 이는 군인들의 지속적인 흐름을 가능하게 해줍니다."
 
 # Mech Titans
 
@@ -230,7 +230,7 @@ machine_assault_6_desc: "대부분의 적들을 압도할 수 있고 효율성�
 
 machine_assault_4: "터미네이터"
 machine_assault_4_plural: "터미네이터"
-machine_assault_4_desc: ""
+machine_assault_4_desc: "소형 기관포와 뒷면에 유탄발사기가 장착된 직립보행 살육 로봇입니다."
 
 # Spider Fromes
 
@@ -246,8 +246,8 @@ machine_assault_8_desc: ""
 
 # World Engine
 
-machine_assault_7: ""
-machine_assault_7_plural: ""
+machine_assault_7: "월드 엔진"
+machine_assault_7_plural: "월드 엔진"
 machine_assault_7_desc: ""
 
 # Spawn Armies
