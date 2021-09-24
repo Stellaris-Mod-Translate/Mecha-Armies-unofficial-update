@@ -146,25 +146,25 @@ white_scars_army_desc: "칸과 황제 폐하를 위하여!"
 
 mechwarrior_army: "맥워리어"
 mechwarrior_army_plural: "맥워리어"
-mechwarrior_army_desc: ""
+mechwarrior_army_desc: "전쟁의 타이탄들입니다. 순전히 가장 크게 만들 수 있는 기계들로 이루어진 군대입니다."
 
 # Merc Mechwarriors
 
 mechwarrior_merc_army: "용병 맥워리어"
 mechwarrior_merc_army_plural: "용병 맥워리어"
-mechwarrior_merc_army_desc: ""
+mechwarrior_merc_army_desc: "맥워리어 운영에 특화된 용병 회사입니다."
 
 # Vertibird
 
-vertibird_army: ""
+vertibird_army: "버티버드 비행 부대"
 vertibird_army_plural: "버티버드 비행 부대"
-vertibird_army_desc: ""
+vertibird_army_desc: "버티버드는 아주 단단하고 다양한 공격 무기와 방어 대책을 가지고 있는 수직 이착륙 항공기입니다. 이 항공기는 같은 종류의 것들 중에서 가장 진보된 기체입니다."
 
 # Inquisitors
 
 inquisitor_army: "이단심문관 단체"
 inquisitor_army_plural: "이단심문관 단체들"
-inquisitor_army_desc: ""
+inquisitor_army_desc: "이단심문관은 제국의 가장 강력한 단체를 지휘하며 서로 뭉쳤습니다."
 
 # necron
 
