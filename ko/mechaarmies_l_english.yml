@@ -234,9 +234,9 @@ machine_assault_4_desc: "소형 기관포와 뒷면에 유탄발사기가 장착
 
 # Spider Fromes
 
-machine_assault_5: ""
-machine_assault_5_plural: ""
-machine_assault_5_desc: ""
+machine_assault_5: "거미 프롬스(Fromes)"
+machine_assault_5_plural: "거미 프롬스(Fromes)"
+machine_assault_5_desc: "기동성이 뛰어나고 벽을 기어오를 수 있는 탱크와 같은 대형 거미 기계입니다. 거대한 주무기와 몇몇 리퍼 캐논 그리고 화염 방사기와 마사일 발사대가 장착되어 있습니다."
 
 # Aerial VTOL
 
