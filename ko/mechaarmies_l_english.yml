@@ -86,61 +86,61 @@ custodes_army_desc: "너희들 만 명 모두 하나하나가 오랜 세대에 �
 
 blood_angels_army: "블러드 엔젤"
 blood_angels_army_plural: "블러드 엔젤"
-blood_angels_army_desc: ""
+blood_angels_army_desc: "황제와 생귀니우스를 위하여!"
 
 # Dark Angels
 
 dark_angels_army: "다크 엔젤"
 dark_angels_army_plural: "다크 엔젤"
-dark_angels_army_desc: ""
+dark_angels_army_desc: "회개하라! 내일이면 그대도 죽을지니!"
 
 # Imperial Fist
 
 imperial_fist_army: "임페리얼 피스트"
 imperial_fist_army_plural: "임페리얼 피스트"
-imperial_fist_army_desc: ""
+imperial_fist_army_desc: "선조 프라이마크이시여, 당신과 지구에 계신 이의 영광을 향하여!"
 
 # Imperial Fist Garrison
 
 imperial_fist_def_army: "임페리얼 피스트 수비대"
 imperial_fist_def_army_plural: "임페리얼 피스트 수비대"
-imperial_fist_def_army_desc: ""
+imperial_fist_def_army_desc: "선조 프라이마크이시여, 당신과 지구에 계신 이의 영광을 향하여!"
 
 # Iron Hands
 
 iron_hands_army: "아이언 핸드"
 iron_hands_army_plural: "아이언 핸드"
-iron_hands_army_desc: ""
+iron_hands_army_desc: "육신은 나약하다!"
 
 # Raven Guard
 
 raven_guard_army: "레이븐 가드"
 raven_guard_army_plural: "레이븐 가드"
-raven_guard_army_desc: ""
+raven_guard_army_desc: "승리가 아니면 죽음을!"
 
 # Salamanders
 
 salamanders_army: "샐러맨더"
 salamanders_army_plural: "샐러맨더"
-salamanders_army_desc: ""
+salamanders_army_desc: "전투의 화염 속으로, 전쟁의 모루를 향하여!"
 
 # Space Wolves
 
 space_wolves_army: "스페이스 울프"
 space_wolves_army_plural: "스페이스 울프"
-space_wolves_army_desc: ""
+space_wolves_army_desc: "러스와 만물의 아버지를 위하여!"
 
 # Ultramarines
 
 Ultramarines_army: "울트라 마린"
 Ultramarines_army_plural: "울트라 마린"
-Ultramarines_army_desc: ""
+Ultramarines_army_desc: "용기와 영광을! 마크라그 위해 전진하라!"
 
 # White Scars
 
 white_scars_army: "화이트 스카"
 white_scars_army_plural: "화이트 스카"
-white_scars_army_desc: ""
+white_scars_army_desc: "칸과 황제 폐하를 위하여!"
 
 # Mechwarriors
 
