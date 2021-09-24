@@ -210,26 +210,26 @@ junkbot_army_desc: "급조된 로봇들로 이루어진 군대로, 효율성이 
 
 # Assimilated Drones 
 
-assimilated_drone: "동화된 드론"
-assimilated_drone_plural: "동화된 드론"
+assimilated_drone: "무인기에 동화된 자"
+assimilated_drone_plural: "무인기에 동화된 자"
 assimilated_drone_desc: "동화된 사이보그로, 자율성을 빼앗기고 무기화된 팔다리로 강화되었습니다."
 
 # Cyber Armies
 
 cyber_army: "사이버 군대"
 cyber_army_plural: "사이버 군대"
-cyber_army_desc: ""
+cyber_army_desc: "동화된 드론은 이제 전신이 금속 갑옷에 둘러싸이고 자체 수리 시스템이 탑제되어 전투에서 더 오래 버틸 수 있게 됐습니다."
 
 # Rotor Drone
 
-machine_assault_6: ""
-machine_assault_6_plural: ""
-machine_assault_6_desc: ""
+machine_assault_6: "로터 드론"
+machine_assault_6_plural: "로터 드론"
+machine_assault_6_desc: "대부분의 적들을 압도할 수 있고 효율성이 좋아 매우 간단하게 생산할 수있는 이중 로터 드론 무리입니다."
 
 # Terminator Armies
 
-machine_assault_4: ""
-machine_assault_4_plural: ""
+machine_assault_4: "터미네이터"
+machine_assault_4_plural: "터미네이터"
 machine_assault_4_desc: ""
 
 # Spider Fromes
