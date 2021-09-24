@@ -206,18 +206,18 @@ xcom_defense_desc: "XCOM 방어대는 외계 침략에 대비한 처음이자 �
 
 junkbot_army: "정크봇"
 junkbot_army_plural: "정크봇"
-junkbot_army_desc: ""
+junkbot_army_desc: "급조된 로봇들로 이루어진 군대로, 효율성이 좋아 빠르게 생산되지만 그만큼 아쉬운 점이 많습니다."
 
 # Assimilated Drones 
 
-assimilated_drone: ""
-assimilated_drone_plural: ""
-assimilated_drone_desc: ""
+assimilated_drone: "동화된 드론"
+assimilated_drone_plural: "동화된 드론"
+assimilated_drone_desc: "동화된 사이보그로, 자율성을 빼앗기고 무기화된 팔다리로 강화되었습니다."
 
 # Cyber Armies
 
-cyber_army: ""
-cyber_army_plural: ""
+cyber_army: "사이버 군대"
+cyber_army_plural: "사이버 군대"
 cyber_army_desc: ""
 
 # Rotor Drone
