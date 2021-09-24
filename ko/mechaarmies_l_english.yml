@@ -182,13 +182,13 @@ titanic_mech_army_desc: "은하 역사상 그 어떠한 병기도 전장 위에 
 
 titanic_psic_army: "싸이 타이탄"
 titanic_psic_army_plural: "싸이 타이탄"
-titanic_psic_army_desc: ""
+titanic_psic_army_desc: "사이킥 에너지를 집중시켜 베일에 싸인 타이탄을 소환시킬 수 있습니다. 전장에 우뚝 서 넘나드는 타이탄은 소환시킬 수 있습니다. 그들의 길을 가로막는 모든 존재는 신의 진정한 힘을 보고 자비를 구걸하게 될 것입니다."
 
 # Bio Titans
 
 titanic_bio_army: "아주 거대한 애완동물"
 titanic_bio_army_plural: "아주 거대한 애완동물"
-titanic_bio_army_desc: ""
+titanic_bio_army_desc: "한때 불가능하다고 여겨졌던 생물 조작과 생물 공학에 대한 우리의 폭넓은 지식은 길들여진 생명체를 아주 거대하게 키우고 무장시켜 무기화할 수 있는 수단을 열어주었습니다. 그들을 전쟁에 보내기 전에 먼저 배를 문질러 줄 것을 잊지 마세요."
 
 # Judge
 
@@ -198,14 +198,14 @@ judge_army_desc: "우리가 법이다!"
 
 # XCOM Defense
 
-xcom_defense: ""
-xcom_defense_plural: ""
-xcom_defense_desc: ""
+xcom_defense: "XCOM 방어대"
+xcom_defense_plural: "XCOM 방어대"
+xcom_defense_desc: "XCOM 방어대는 외계 침략에 대비한 처음이자 마지막 방어선이며 우리가 사용할 수 있는 가장 귀중한 방어 전투 부대입니다."
 
 # Junkbot Armies
 
-junkbot_army: ""
-junkbot_army_plural: ""
+junkbot_army: "정크봇"
+junkbot_army_plural: "정크봇"
 junkbot_army_desc: ""
 
 # Assimilated Drones 
