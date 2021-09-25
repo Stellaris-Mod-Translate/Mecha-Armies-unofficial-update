@@ -272,13 +272,13 @@ ripper_army_desc: "리퍼는 거대하게 무리지어 싸우는 구더기같은
 
 trygon_army: "트라이곤"
 trygon_armyplural: "트라이곤"
-trygon_army_desc: ""
+trygon_army_desc: "트라이곤은 전장에서 우리 군대를 이끄는 지휘 개체입니다. 이것은 적진 뒤로 가는 땅굴을 만들기 위해 거대한 굴을 파고 예민한 감각으로 위에 있는 적의 존재를 감지합니다. 이 생물체는 극도로 치명적인 근접 전투 특화 개체입니다. 여섯 개의 발톱 달린 팔과 면도날처럼 극도로 날카로운 이빨 그리고 갑각에서 흐르는 생체 전기장은 적들의 공격을 막아줍니다."
 
 # Raveners
 
-ravener_army: ""
-ravener_army_plural: ""
-ravener_army_desc: ""
+ravener_army: "레이브너"
+ravener_army_plural: "레이브너"
+ravener_army_desc: "레이브너는 산성 투사체를 뱉을 수 있고 날개가 달린 릭터 다음 진화종입니다."
 
 # The Great Devourer
 
