@@ -327,11 +327,11 @@ mininukes: "소형 핵"
 mininukes_desc: "전술 산소 핵무기는 핵분열 물질을 필요로 하지 않으며 낙진을 발생시키지 않습니다. 크기도 작아서 보병들이 사용하기에 충분합니다."
 mininukes_name: "소형 핵"
 jumpjets: "진보된 점프 제트팩"
-jumpjets_desc: ""
+jumpjets_desc: "진보된 점프 제트팩이 장착된 파워 아머 슈트는 점프력, 민첩성 및 돌진력을 높여줍니다. 생존성도 크게 향샹시킵니다."
 jumpjets_name: "점프 제트"
-jumpnukes: ""
-jumpnukes_desc: ""
-jumpnukes_name: ""
+jumpnukes: "점프팩과 소형 핵"
+jumpnukes_desc: "진보된 점프 제트팩이 장착된 파워 아머 슈트는 점프력, 민첩성 및 돌진력을 높여줍니다. 생존성도 크게 향샹시킵니다. 전술 산소 핵무기는 핵분열 물질을 필요로 하지 않으며 낙진을 발생시키지 않습니다. 크기도 작아서 보병들이 사용하기에 충분합니다."
+jumpnukes_name: "점프 제트와 소형 핵"
 
 #XCOM
 
