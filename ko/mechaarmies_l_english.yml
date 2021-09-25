@@ -242,13 +242,13 @@ machine_assault_5_desc: "기동성이 뛰어나고 벽을 기어오를 수 있�
 
 machine_assault_8: "에어리얼 항공부대"
 machine_assault_8_plural: "에어리얼 항공부대"
-machine_assault_8_desc: ""
+machine_assault_8_desc: "에어리얼은 수직 이착륙이 가능한 대형 항공기입니다. 아래쪽과 날개에 장착된 파괴적인 레이저, 미사일, 플라즈마 캐논 무기가 특징인 에어리얼은 보기만해도 두렵고 끔찍합니다."
 
 # World Engine
 
 machine_assault_7: "월드 엔진"
 machine_assault_7_plural: "월드 엔진"
-machine_assault_7_desc: ""
+machine_assault_7_desc: "월드 엔진은 도시 수준의 파괴를 자아낼 수 있는 무기를 갖춘 아주 거대한 전쟁 기계입니다."
 
 # Spawn Armies
 
