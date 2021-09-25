@@ -270,8 +270,8 @@ ripper_army_desc: "리퍼는 거대하게 무리지어 싸우는 구더기같은
 
 # Trygons
 
-trygon_army: ""
-trygon_armyplural: ""
+trygon_army: "트라이곤"
+trygon_armyplural: "트라이곤"
 trygon_army_desc: ""
 
 # Raveners
