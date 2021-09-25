@@ -282,18 +282,18 @@ ravener_army_desc: "레이브너는 산성 투사체를 뱉을 수 있고 날개
 
 # The Great Devourer
 
-great_devourer_army: ""
-great_devourer_army_plural: ""
-great_devourer_army_desc: ""
+great_devourer_army: "거대 디바우러"
+great_devourer_army_plural: "거대 디바우러"
+great_devourer_army_desc: "거대 디바우러는 은하의 다른 지적 생명체가 배치할 수 있는 가장 거대한 전쟁 기계에 대항하기 위한 최종 진화 생물입니다. 전장 위에 우뚝 선 이것은 작은 생체병기 무리를 이끕니다. 이 거대한 생체병기들은 은하의 전장마다 따라다니며 강력한 생체 무기로 그들의 적을 학살하며 죽음과 파괴를 퍼뜨립니다."
 
 # Mecha Building
 
-building_titan_forge: ""
-building_titan_forge_desc: ""
-building_psi_forge: ""
-building_psi_forge_desc: ""
-building_titanic_preserve: ""
-building_titanic_preserve_desc: ""
+building_titan_forge: "타이탄 구축장"
+building_titan_forge_desc: "타이탄 생산에만 전념하는 거대한 공장입니다. 팝은 타이탄을 제작하기 위해 반드시 사이버네틱 특성을 가지고 있어야 합니다."
+building_psi_forge: "사이킥 구축장"
+building_psi_forge_desc: "타이탄 소환을 위한 거대한 신전입니다."
+building_titanic_preserve: "거대생물 관리소"
+building_titanic_preserve_desc: "아주 거대한 애완동물들을 관리하고 창조에만 전념하는 광대한 실험실 및 보호구역입니다."
 building_titan_factory: ""
 building_titan_factory_desc: ""
 building_titan_nest: ""
