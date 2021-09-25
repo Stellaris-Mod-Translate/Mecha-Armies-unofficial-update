@@ -252,14 +252,14 @@ machine_assault_7_desc: "월드 엔진은 도시 수준의 파괴를 자아낼 �
 
 # Spawn Armies
 
-spwan_army: ""
-spwan_army_plural: ""
-spwan_army_desc: ""
+spwan_army: "스폰링"
+spwan_army_plural: "스폰링"
+spwan_army_desc: "작고 빠르게 성장하며 소모성으로 사용되는 괴수입니다. 스폰링은 완벽한 생물형 총알받이입니다."
 
 # Lictors
 
-lictor_army: ""
-lictor_army_plural: ""
+lictor_army: "릭터"
+lictor_army_plural: "릭터"
 lictor_army_desc: ""
 
 # Rippers
