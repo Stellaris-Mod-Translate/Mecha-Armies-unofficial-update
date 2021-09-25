@@ -156,8 +156,8 @@ mechwarrior_merc_army_desc: "맥워리어 운영에 특화된 용병 회사입�
 
 # Vertibird
 
-vertibird_army: "버티버드 비행 부대"
-vertibird_army_plural: "버티버드 비행 부대"
+vertibird_army: "버티버드 항공부대"
+vertibird_army_plural: "버티버드 항공부대"
 vertibird_army_desc: "버티버드는 아주 단단하고 다양한 공격 무기와 방어 대책을 가지고 있는 수직 이착륙 항공기입니다. 이 항공기는 같은 종류의 것들 중에서 가장 진보된 기체입니다."
 
 # Inquisitors
@@ -240,8 +240,8 @@ machine_assault_5_desc: "기동성이 뛰어나고 벽을 기어오를 수 있�
 
 # Aerial VTOL
 
-machine_assault_8: ""
-machine_assault_8_plural: ""
+machine_assault_8: "에어리얼 항공부대"
+machine_assault_8_plural: "에어리얼 항공부대"
 machine_assault_8_desc: ""
 
 # World Engine
