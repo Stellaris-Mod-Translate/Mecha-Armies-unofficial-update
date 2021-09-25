@@ -336,5 +336,5 @@ jumpnukes_name: "점프 제트와 소형 핵"
 #XCOM
 
 civic_xcom: "XCOM 프로젝트"
-civic_xcom_desc: ""
-civic_xcom_effects: ""
+civic_xcom_desc: "최근의 외계인 침략에 비추어, 이 국제회의는 XCOM 프로젝트 활성화를 승인하기 위해 소집되었습니다. 우리의 처음이자 마지막 방어선입니다. 행운을 빕니다, 사령관."
+civic_xcom_effects: "XCOM 유닛을 방어와 공격에 동원하고 사이오닉 이론에 대한 통찰력을 제공합니다."
